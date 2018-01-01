@@ -1,0 +1,8 @@
+C:\Users\范家齐\Desktop\eco\ind\ind\bin\Release\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\ind\bin\Release\ind.pdb
+C:\Users\范家齐\Desktop\eco\ind\ind\bin\Release\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Release\ind.Resources.resources
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Release\ind.vbproj.GenerateResource.Cache
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Release\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Release\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Release\ind.pdb

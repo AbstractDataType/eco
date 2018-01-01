@@ -1,0 +1,14 @@
+C:\Users\范家齐\Desktop\eco\ind\eco2\bin\Release\eco2.exe
+C:\Users\范家齐\Desktop\eco\ind\eco2\bin\Release\eco2.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco2\bin\Release\eco2.xml
+C:\Users\范家齐\Desktop\eco\ind\eco2\bin\Release\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\eco2\bin\Release\ind.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco2\bin\Release\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.Resources.resources
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.sim.resources
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.stat.resources
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.vbproj.GenerateResource.Cache
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.exe
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.xml
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco2\obj\Release\eco2.vbprojResolveAssemblyReference.cache

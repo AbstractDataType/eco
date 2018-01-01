@@ -1,0 +1,9 @@
+C:\Users\范家齐\Desktop\eco\ind\ind\bin\Debug\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\ind\bin\Debug\ind.pdb
+C:\Users\范家齐\Desktop\eco\ind\ind\bin\Debug\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Debug\ind.vbprojResolveAssemblyReference.cache
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Debug\ind.Resources.resources
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Debug\ind.vbproj.GenerateResource.Cache
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Debug\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Debug\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\ind\obj\Debug\ind.pdb

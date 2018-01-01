@@ -1,0 +1,14 @@
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Release\eco3.exe
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Release\eco3.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Release\eco3.xml
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Release\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Release\ind.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Release\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.vbprojResolveAssemblyReference.cache
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.sim.resources
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.Resources.resources
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.stat.resources
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.vbproj.GenerateResource.Cache
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.exe
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.xml
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Release\eco3.pdb

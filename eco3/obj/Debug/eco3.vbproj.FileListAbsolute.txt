@@ -1,0 +1,14 @@
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Debug\eco3.exe
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Debug\eco3.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Debug\eco3.xml
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Debug\ind.dll
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Debug\ind.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco3\bin\Debug\ind.xml
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.sim.resources
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.Resources.resources
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.stat.resources
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.vbproj.GenerateResource.Cache
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.exe
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.xml
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.pdb
+C:\Users\范家齐\Desktop\eco\ind\eco3\obj\Debug\eco3.vbprojResolveAssemblyReference.cache
